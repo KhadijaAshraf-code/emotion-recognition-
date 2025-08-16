@@ -15,5 +15,7 @@ Clone the repository and install requirements:
 ```bash
 pip install -r requirements.txt
 download dataset from this Kaggle FER – 2013
+##  Notes
+- Restarted training to verify model – notebook reran all epochs.This caused all epochs to start over again.
 
 
